@@ -1,0 +1,34 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Feb 2025 07:46:52 at www.dpsssiddipet.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" www.dpsssiddipet.com -O1 "C:\My Web Sites\dpsssiddipet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:58:30	Warning: 	Retry after error -4 (Incorrect length (815077 Bytes, 894998 expected)) at link www.dpsssiddipet.com/images/home-slider/slider2.jpg (from www.dpsssiddipet.com/)
+07:58:44	Warning: 	Retry after error -4 (Incorrect length (544211 Bytes, 722249 expected)) at link www.dpsssiddipet.com/images/home-slider/slider3.jpg (from www.dpsssiddipet.com/)
+07:59:14	Warning: 	Retry after error -4 (Incorrect length (416267 Bytes, 607039 expected)) at link www.dpsssiddipet.com/images/home-slider/slider4.jpg (from www.dpsssiddipet.com/)
+07:59:14	Warning: 	Retry after error -4 (Incorrect length (813483 Bytes, 911707 expected)) at link www.dpsssiddipet.com/images/home-slider/slider5.jpg (from www.dpsssiddipet.com/)
+07:59:31	Warning: 	Retry after error -4 (Incorrect length (810268 Bytes, 931148 expected)) at link www.dpsssiddipet.com/images/home-slider/slider6.jpg (from www.dpsssiddipet.com/)
+07:59:45	Warning: 	Retry after error -4 (Incorrect length (411902 Bytes, 537868 expected)) at link www.dpsssiddipet.com/assets/vendor/icofont/fonts/icofont.woff2 (from www.dpsssiddipet.com/assets/vendor/icofont/icofont.min.css)
+07:59:51	Warning: 	Retry after error -4 (Incorrect length (536288 Bytes, 645604 expected)) at link www.dpsssiddipet.com/assets/vendor/icofont/fonts/icofont.woff (from www.dpsssiddipet.com/assets/vendor/icofont/icofont.min.css)
+07:59:58	Warning: 	Retry after error -4 (Incorrect length (151808 Bytes, 273444 expected)) at link www.dpsssiddipet.com/assets/vendor/boxicons/fonts/boxicons.woff (from www.dpsssiddipet.com/assets/vendor/boxicons/css/boxicons.min.css)
+08:00:06	Warning: 	Retry after error -4 (Incorrect length (285795 Bytes, 403228 expected)) at link www.dpsssiddipet.com/assets/vendor/remixicon/remixicon.eot?t=1590207869815 (from www.dpsssiddipet.com/assets/vendor/remixicon/remixicon.css)
+08:00:06	Warning: 	Retry after error -4 (Incorrect length (271638 Bytes, 403056 expected)) at link www.dpsssiddipet.com/assets/vendor/remixicon/remixicon.ttf?t=1590207869815 (from www.dpsssiddipet.com/assets/vendor/remixicon/remixicon.css)
+08:00:12	Warning: 	Retry after error -4 (Incorrect length (1371646 Bytes, 1533728 expected)) at link www.dpsssiddipet.com/images/school-building/school-bld.png (from www.dpsssiddipet.com/aboutus.php)
+08:00:16	Warning: 	Retry after error -4 (Incorrect length (1341678 Bytes, 1410337 expected)) at link www.dpsssiddipet.com/images/school-building/vision.jpg (from www.dpsssiddipet.com/aboutus.php)
+08:00:24	Warning: 	Retry after error -4 (Incorrect length (1334873 Bytes, 9469952 expected)) at link www.dpsssiddipet.com/assets/img/newpic/librarygirl.JPG (from www.dpsssiddipet.com/schoolpermises.php)
+08:00:26	Warning: 	Retry after error -4 (Incorrect length (388945 Bytes, 530076 expected)) at link www.dpsssiddipet.com/assets/img/fa.png (from www.dpsssiddipet.com/schoolpermises.php)
+08:00:28	Warning: 	Retry after error -4 (Incorrect length (1475292 Bytes, 2360669 expected)) at link www.dpsssiddipet.com/assets/img/newpic/physical-activity.jpg (from www.dpsssiddipet.com/schoolpermises.php)
+08:00:38	Warning: 	Retry after error -4 (Incorrect length (1328172 Bytes, 7372800 expected)) at link www.dpsssiddipet.com/assets/img/newpic/indoor activity.JPG (from www.dpsssiddipet.com/schoolpermises.php)
+08:00:49	Warning: 	Retry after error -4 (Incorrect length (418928 Bytes, 513769 expected)) at link www.dpsssiddipet.com/images/school-building/evnt1.jpg (from www.dpsssiddipet.com/events.php)
+08:03:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 7372800 got 2742513): www.dpsssiddipet.com/assets/img/newpic/indoor activity.JPG
+08:03:15	Warning: 	file not stored in cache due to bogus state (broken size, expected 9469952 got 2903178): www.dpsssiddipet.com/assets/img/newpic/librarygirl.JPG
+08:03:15	Warning: 	Retry after error -4 (Incorrect length (2903178 Bytes, 9469952 expected)) at link www.dpsssiddipet.com/assets/img/newpic/librarygirl.JPG (from www.dpsssiddipet.com/schoolpermises.php)
+08:03:16	Warning: 	Retry after error -4 (Incorrect length (2742513 Bytes, 7372800 expected)) at link www.dpsssiddipet.com/assets/img/newpic/indoor activity.JPG (from www.dpsssiddipet.com/schoolpermises.php)
+08:22:34	Error: 	"Incorrect length (6753687 Bytes, 9469952 expected)" (-4) after 2 retries at link www.dpsssiddipet.com/assets/img/newpic/librarygirl.JPG (from www.dpsssiddipet.com/schoolpermises.php)
+08:22:34	Error: 	"Incorrect length (6591900 Bytes, 7372800 expected)" (-4) after 2 retries at link www.dpsssiddipet.com/assets/img/newpic/indoor activity.JPG (from www.dpsssiddipet.com/schoolpermises.php)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 minutes 42 seconds : 109 links scanned, 87 files written (21815872 bytes overall) [33817509 bytes received at 15787 bytes/sec], 1742828 bytes transferred using HTTP compression in 44 files, ratio 20%, 1.6 requests per connection
+(2 errors, 21 warnings, 0 messages)
